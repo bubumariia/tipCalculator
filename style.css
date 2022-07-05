@@ -1,0 +1,19 @@
+body{
+    background-color: #b48484;
+    box-sizing: border-box;
+    margin: 0%;
+}
+.container{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.wrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+}
